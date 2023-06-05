@@ -1,9 +1,9 @@
 
 ## **Executive Summary**:
 
-```text
+
 On 2021-08-19 22:40:36, a user called monica.steele with a hostname DESKTOP-M1TFHB6, was infected with a malware called TrickBot.
-```
+
 
 
 ## **Details**:
