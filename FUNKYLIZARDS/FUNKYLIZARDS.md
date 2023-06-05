@@ -37,7 +37,7 @@ On Examin the http traffic, we found that the user monica.steele download's a fi
 On continuing of the analysis, it shows on the http packet that the user is actually executed the malware and after that. The malware Gatherd the user IP public address throw "api.ipify.org" then it send's the data back to Cowboy server which is a simple light python http server with the IP of "103[.]148[.]41[.]195", however, the malware gatherd the user data like : proc list, system info( host-name, system-Name etc...) then send back the data to cowboy server with a post requset and the victim hostname as a url and an attachment of the system information.(The packet could be found down below.). However, The malware is targting Active Directory domain's.
 
 
-
+---------------------------------------------
 
 POST /rob124/DESKTOP-M1TFHB6_W10019043.0CB9C3AE3FA9B1267DFC20141CDE9D84/90/ HTTP/1.1
 
@@ -111,7 +111,7 @@ Content-Type: text/plain
 
 /1/
 
-
+-----------------------------------------------------------------------------
 
 ## reference
 
