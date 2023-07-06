@@ -133,7 +133,7 @@ The Time Frame : 2020-03-12 00:24:36
 
 ### Malware
 
-First we will download the binary from wireshark and gets it's md5 hash.
+First we will download the binary from wireshark and gets it's md5 hash then, submint it to virustotal.
 
 ```bash
 ┌──(jax㉿kali)-[~/war]
